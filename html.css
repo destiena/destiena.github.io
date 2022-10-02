@@ -1,0 +1,133 @@
+
+/* css biodata */
+.head2 h2 {
+    text-align:left;
+    color: lightseagreen;
+    background-color: black;
+    font-size: 30px;
+    width: 100%;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+   
+}
+.nama {
+    color: black;
+    font-size: 50px;
+    text-align: left;
+    margin-left: 135px;
+
+    text-shadow: 
+    0.025em 0.025em 0 white,
+    0.075em 0.075em 0 lightseagreen,
+    0.05em 0.05em 0 brown,
+    0.1em 0.1em 0 burlywood;
+    
+    
+    
+  
+}
+h4 {
+    text-decoration: underline;
+    text-decoration-color:  lightseagreen;
+    font-size: 30px;
+    padding-left: 10px;
+}
+
+
+.para{
+    text-indent: 50px;
+    text-align:justify;
+    font-size: 25px;
+    display: inline-block;
+    width: 100%;
+    
+
+}
+.latar {
+    columns: 1 300px;
+    gap: 1em;
+    width:80%;
+    max-width: 750%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: beige;
+    box-sizing: border-box;
+    color: black;
+
+} 
+.foto {
+   
+    filter:contrast(1.5) brightness(1);
+    width: 120px;
+    position:relative;
+    clear: both;
+    border: 3px double black;  
+    margin-bottom: -120px;
+
+    
+}
+ul { 
+    text-indent: 25px;
+    text-align:justify; 
+    font-size: 25px;
+}
+.kontak li {
+    display:inline;
+}
+
+
+/* css portfolio */
+.dest{
+    color:  white;
+    font-size: 45px;
+    text-align: left;
+
+    text-shadow: 
+    0.025em 0.025em 0 #6d7973,
+    0.075em 0.075em 0 #3f3931,
+    0.05em 0.05em 0 #b2b2a2,
+    0.1em 0.1em 0 #e7baa0;
+}
+#banner {
+    text-align: justify;
+    font-size: 20px;
+}
+#tabelwaktu {
+    font-family: sans-serif;
+    color: black;
+    border-collapse:collapse;
+    border: 3px solid white; 
+    
+  
+    width:80%;
+    
+}
+#tabelwaktu tr th{
+    background: #3f3931;
+    color: white;
+    font-weight: normal;
+    
+
+}
+#tabelwaktu th, td{
+    padding: 3px 10px;
+    
+}
+#tabelwaktu tr {
+    background:#E7B183;
+}
+body{
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #849974;
+    margin: 0 auto;  
+    color: white ; 
+}
+#banner h2{
+    text-decoration: underline;
+    text-decoration-color: #3f3931 ;
+    
+}
