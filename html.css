@@ -99,9 +99,8 @@ ul {
     color: black;
     border-collapse:collapse;
     border: 3px solid white; 
-    
-  
-    width:80%;
+    width:50%;
+   
     
 }
 #tabelwaktu tr th{
@@ -125,6 +124,7 @@ body{
     background-color: #849974;
     margin: 0 auto;  
     color: white ; 
+    
 }
 #banner h2{
     text-decoration: underline;
