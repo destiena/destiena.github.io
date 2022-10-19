@@ -129,5 +129,12 @@ body{
 #banner h2{
     text-decoration: underline;
     text-decoration-color: #3f3931 ;
+    text-align: left;
     
 }
+
+/* display hp */
+#banner h2 {
+    text-align: left;
+}
+
